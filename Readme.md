@@ -1,0 +1,1 @@
+## Used Prisma ORM to generate Postgre queries
